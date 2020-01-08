@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">검은사막 모바일 포럼 알리미</string>
+    <string name="default_notification_channel_id">1025</string>
+    <string name="admoc_app_id">ca-app-pub-2917022751703858~4549301057</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2917022751703858/1731566021</string>
+    <string name="banner_ad_unit_id_test">ca-app-pub-3940256099942544/6300978111</string>
+</resources>
